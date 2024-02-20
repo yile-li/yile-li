@@ -1,5 +1,14 @@
-### Hi there 👋
-
+### Hi there! I'm Akira 👋
+{ \
+&nbsp; &nbsp;  podcasts: [ Tim Ferris Show, Knowledge Project, Huberman Lab ] \
+&nbsp; &nbsp;  people: [ Naval Ravikant, Morgan Housel ] \
+&nbsp; &nbsp;  books: [ nonfiction, biography ] \
+&nbsp; &nbsp;  topics: [ evolution, philosophy, space, mental models, investing ] \
+&nbsp; &nbsp;  music: [ Hans Zimmer, Imagine Dragons, movie/game soundtrack ] \
+&nbsp; &nbsp;  art: [ concept art ] \
+} \
+\
+Would love to have a chat! Email me at liyile@umich.edu :)
 <!--
 **yile-li/yile-li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
