@@ -1,11 +1,11 @@
 ### Hi there! I'm Akira 👋
 { \
-&nbsp; &nbsp;  podcasts:  Tim Ferris Show, Knowledge Project, Huberman Lab  \
-&nbsp; &nbsp;  people:  Naval Ravikant, Morgan Housel  \
-&nbsp; &nbsp;  books:  nonfiction, biography  \
-&nbsp; &nbsp;  topics:  evolution, philosophy, space, mental models, investing  \
-&nbsp; &nbsp;  music:  Hans Zimmer, Imagine Dragons, movie/game soundtrack  \
-&nbsp; &nbsp;  art:  concept art  \
+&nbsp; &nbsp; &nbsp; &nbsp;  **podcasts**:  Tim Ferris Show, Knowledge Project, Huberman Lab  \
+&nbsp; &nbsp; &nbsp; &nbsp;  **people**:  Naval Ravikant, Morgan Housel  \
+&nbsp; &nbsp; &nbsp; &nbsp;  **books**:  nonfiction, biography  \
+&nbsp; &nbsp; &nbsp; &nbsp;  **topics**:  evolution, philosophy, space, mental models, investing  \
+&nbsp; &nbsp; &nbsp; &nbsp;  **music**:  soundtrack  \
+&nbsp; &nbsp; &nbsp; &nbsp;  **art**:  concept art  \
 } \
 \
 Would love to have a chat! Email me at liyile@umich.edu :)
