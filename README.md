@@ -3,7 +3,7 @@ I'm currently building a Flutter mobile app that will help me (and hopefully oth
 
 
 🎙️ **podcasts**:  Tim Ferris Show, Knowledge Project, Huberman Lab  \
-🗣️ **people**:  Naval Ravikant, Morgan Housel  \
+🗣️ **humans**:  Naval Ravikant, Morgan Housel  \
 📚 **books**:  nonfiction, biography  \
 🔭 **topics**:  evolution, philosophy, space, mental models, investing  \
 🎧 **music**:  soundtrack  \
