@@ -6,7 +6,7 @@ I'm currently building a Flutter mobile app that will help me (and hopefully oth
 🗣️ **humans**:  Naval Ravikant, Morgan Housel  \
 📚 **books**:  nonfiction, biography  \
 🔭 **topics**:  evolution, philosophy, space, mental models, investing  \
-🎧 **music**:  soundtrack  \
+🎧 **music**:  soundtrack: Hans Zimmer, Ludwig Göransson, Gareth Coker, John Powell  \
 🎨 **art**:  concept art  \
 \
 Would love to have a chat! Email me at liyile@umich.edu :)
